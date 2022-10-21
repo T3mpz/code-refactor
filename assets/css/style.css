@@ -132,8 +132,8 @@ section > img {
 }
 
 /* Media Query */
-/* Large Screen */
 
+/* Large Screen */
 @media screen and (max-width: 1070px) {
   ul li {
     margin-top: 1rem;
@@ -190,6 +190,7 @@ section > img {
   }
 }
 
+/* Small Screens */
 @media screen and (max-width: 638px) {
   .main-content section:not(:last-child) {
     padding: 0.8rem;
