@@ -133,14 +133,15 @@ section > img {
 
 /* Media Query */
 /* Large Screen */
-@media (max-width: 1070px) {
+
+@media screen and (max-width: 1070px) {
   ul li {
     margin-top: 1rem;
-    padding-inline: .8rem;
+    padding-inline: 0.8rem;
   }
   .header nav {
-   flex-direction: column;
-   text-align: center;
+    flex-direction: column;
+    text-align: center;
   }
   .main-content section:not(:last-child) {
     padding: 0.8rem;
@@ -189,7 +190,6 @@ section > img {
   }
 }
 
-/* Small Screen */
 @media screen and (max-width: 638px) {
   .main-content section:not(:last-child) {
     padding: 0.8rem;
