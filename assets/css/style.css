@@ -134,6 +134,14 @@ section > img {
 /* Media Query */
 /* Large Screen */
 @media (max-width: 1070px) {
+  ul li {
+    margin-top: 1rem;
+    padding-inline: .8rem;
+  }
+  .header nav {
+   flex-direction: column;
+   text-align: center;
+  }
   .main-content section:not(:last-child) {
     padding: 0.8rem;
     align-items: center;
@@ -193,8 +201,8 @@ section > img {
     margin: 1rem 0;
     text-align: center;
   }
-  .main-content section p{
-    text-align: center ;
+  .main-content section p {
+    text-align: center;
   }
   .grid {
     grid-template-rows: repeat(3, 400px);
