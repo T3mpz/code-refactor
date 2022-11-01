@@ -4,13 +4,18 @@
 
 In this project we were given starter code and were tasked with replacing non-semantic html, adding comments, and removing any repeat code.
 
-## Installation
+## Deployment Link
 
-N/A
+- [Password Generator](https://t3mpz.github.io/code-refactor/)
+
+## Screen shots
+
+![Hero Section](./assets/README-images/hero-section.png)
+![Main Content](./assets/README-images/main-content.png)
 
 ## Usage
 
-In this project I attempted to make a responive webpage. I incorparted css grid as well as media queires to do so. 
+In this project I attempted to make a responsive webpage. I incorporated css grid as well as media queries to do so.
 
 ## Credits
 
@@ -18,6 +23,7 @@ In this project I attempted to make a responive webpage. I incorparted css grid 
 - [Grid-auto-rows](https://developer.mozilla.org/en-US/docs/Web/CSS/grid-template-rows)
 - [Media-queries](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries)
 - [View-port-meta](https://developer.mozilla.org/en-US/docs/Web/HTML/Viewport_meta_tag)
-## License
 
-N/A
+## Installation
+
+## License
